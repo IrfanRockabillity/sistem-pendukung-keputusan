@@ -83,7 +83,7 @@
 	</tr>								
     </table>
     <br>
-    <form method="post" action="<?php echo $_SERVER['PHP_SELF'] ?>">
+    <form method="post" action="/SPK/index.php?m=saw">
 	<table border="1" class="table table-bordered table-striped table-hover">
 	    <tr>
 		<th>Kriteria</th>
